@@ -15,7 +15,7 @@ Se exploran los patrones de consumo, se identifican factores que afectan la dema
 - **Python 3.12**
 - [Pandas](https://pandas.pydata.org/) para manipulación de datos  
 - [Matplotlib](https://matplotlib.org/) y [Seaborn](https://seaborn.pydata.org/) para visualizaciones  
-- [Skforecast](https://joaquinamatrodrigo.github.io/skforecast/) para modelado y backtesting  
+- [Skforecast](https://skforecast.org/0.17.0/index.html/) para modelado y backtesting  
 - [XGBoost](https://xgboost.readthedocs.io/) como algoritmo de machine learning  
 - [Scikit-learn](https://scikit-learn.org/stable/) para métricas y utilidades  
 - [holidays](https://pypi.org/project/holidays/) para identificar días feriados en Perú  
